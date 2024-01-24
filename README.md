@@ -8,6 +8,6 @@ The project is meant to create a code to control a 4 link robot. The matlab file
 
 Content
 
-Assignment - Robotics: detailed description of the asignment divided in numered tasks.
-Report - Robotics: Outcome of the study.
+Assignment - Robotics: detailed description of the asignment divided in numered tasks. \\
+Report - Robotics: Outcome of the study. \\
 MATLAB - Robotics; Files ordered following the report time line.
